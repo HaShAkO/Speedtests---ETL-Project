@@ -54,4 +54,4 @@ Please upload the report to Github and submit a link to Bootcampspot.
 
 ### Copyright
 
-Coding Boot Camp © 2018. All Rights Reserved.
+Coding Boot Camp © 2019. All Rights Reserved.
